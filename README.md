@@ -1,14 +1,14 @@
-# alfred-dark
+# transparent-adwaita
 
-Transparent dark theme for uLauncher, based off Alfred's dark theme except with black as accent color instead of blue
+Transparent dark theme for uLauncher using Adwaita's blue as an accent color.
 
-## installation
+## Installation
 
  - `mkdir -p ~/.config/ulauncher/user-themes`
- - `git clone git@github.com:kalenpw/alfred-dark.git`
+ - `cd ~/.config/ulauncher/user-themes`
+ - `git clone git@github.com:kalenpw/transparent-adwaita.git`
+ - Open ulauncher settings and select `transparent-adwaita`
 
 
-## screenshot
-
-
-<img src="https://i.imgur.com/CmXZW81.png">
+## Screenshot
+<img src="./screenshot.png">
