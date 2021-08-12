@@ -1,8 +1,8 @@
 {
     "manifest_version": "1",
-    "name": "transparent-dark",
-    "display_name": "Transparent Dark",
-    "extend_theme": "light",
+    "name": "transparent-adwaita",
+    "display_name": "Transparent Adwaita",
+    "extend_theme": "dark",
     "css_file": "theme.css",
     "css_file_gtk_3.20+": "theme-gtk-3.20.css",
     "matched_text_hl_colors": {
